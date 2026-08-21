@@ -20,7 +20,7 @@ keine
 
 ## Tagesplanungen
 
-### Planung 16.08.2024
+### Planung 22.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
