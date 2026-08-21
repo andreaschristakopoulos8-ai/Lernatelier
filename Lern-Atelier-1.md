@@ -13,10 +13,10 @@
 keine
 
 ### Projekte / neue Technologien
-> Was fÃ¼r Projekte/neue Technologien mÃ¶chten Sie gerne in dieser Lernperiode lernen?
+> Ich möchte verstehen wie genau das Prinzip funktioniert indem man dem man im Programm Den Namen eingibt und sagt das es ein Willkommen dafor setzen soll und er das dann auch macht.
 
 ### Generelle Ziele
-> Was haben Sie fÃ¼r klare und messbare Ziele in dieser Lernperiode?
+> Ich möchte bessser verstehen wie die Module funktionieren und meine Aufgaben Nachholen
 
 ## Tagesplanungen
 
