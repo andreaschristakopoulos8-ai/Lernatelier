@@ -7,10 +7,10 @@
 ## Grob-Planung
 
 ### Noten
-> Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenÃ¼gend? Welche davon sind besonders wichtig?
+0
 
 ### VerÃ¤nderungen
-> Was mÃ¶chten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+keine
 
 ### Projekte / neue Technologien
 > Was fÃ¼r Projekte/neue Technologien mÃ¶chten Sie gerne in dieser Lernperiode lernen?
