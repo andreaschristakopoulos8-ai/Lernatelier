@@ -43,7 +43,16 @@ keine
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ich möchte bei dem Modul 431 die Aufgaben nachholen
-- [ ] Ich möchte bei Modul 319 die Missionen nachholen
-- [ ] Ich möchte für den Test über das Modul 931 lernen
+ Ich möchte bei dem Modul 431 die Auftrge 1704-1707 machen
+- [ ] Auftrag 1704
+- [ ] Auftrag 1704
+- [ ] Auftrag 1705
+- [ ] Auftrag 1706
+- [ ] Auftrag 1707
+      
+ Ich möchte bei dem Modul 391 Die Missionen 4-7 machen
+- [ ] Mission 4
+- [ ] Mission 5
+- [ ] Mission 6
+- [ ] Mission 7
 (Heute habe ich... (50-100 WÃ¶rter))
