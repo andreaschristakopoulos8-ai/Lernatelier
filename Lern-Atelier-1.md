@@ -51,7 +51,7 @@ keine
 - [ ] Auftrag 1707
       
  Ich möchte bei dem Modul 391 Die Missionen 4-7 machen
-- [ ] Mission 4
+- [x] Mission 4
 - [ ] Mission 5
 - [ ] Mission 6
 - [ ] Mission 7
