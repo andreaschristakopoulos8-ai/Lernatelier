@@ -44,7 +44,7 @@ keine
 3 bis 5 klar messbare Arbeitspakete.
 
  Ich möchte bei dem Modul 431 die Auftrge 1704-1705 machen
-- [ ] Auftrag 1704
+- [x] Auftrag 1704
 - [ ] Auftrag 1705
 - [ ] Auftrag 1706
 
@@ -53,4 +53,21 @@ keine
 - [x] Mission 4
 - [x] Mission 5
 
-(Heute habe ich... (50-100 WÃ¶rter))
+Heute habe ich die Mission 4 und 5 vom Modul 319 gemacht und den Auftrag 1704 vom Modul 431. Ich habe nicht alle meine Ziele geschafft und habe im gegensatz zur Zeit die ich hatte nicht gleich viel Leistung gebracht und das warscheinlich, weil ich nicht genug geschlafen habe und meine Konzentration sehr gesunken ist. Nächstes mal mehr Schlaf und mehr Konzentration.
+
+### Planung 18.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+ Ich möchte bei dem Modul 431 die Auftrge 1705-1010 machen machen
+- [ ] Auftrag 1705
+- [ ] Auftrag 1706
+- [ ] Auftrag 1707
+- [ ] Auftrag 1708
+- [ ] Auftrag 1709
+- [ ] Auftrag 1710
+
+      
+ Ich möchte bei dem Modul 391 Die Mission 6 machen
+- [] Mission 6
+
+
