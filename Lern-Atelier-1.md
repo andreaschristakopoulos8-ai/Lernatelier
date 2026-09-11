@@ -29,13 +29,12 @@ keine
 (Heute habe ich... (50-100 WÃ¶rter))
 
 
-### Planung 23.08.2024
+### Planung 3.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
+- [ ] Ich möchte bei dem Modul 431 die Aufgaben nachholen
+- [ ] Ich möchte bei Modul 319 die Missionen nachholen
+- [ ] Ich möchte für den Test über das Modul 931 lernen
 (Heute habe ich... (50-100 WÃ¶rter))
 
 ## Lernperiode Reflexion
