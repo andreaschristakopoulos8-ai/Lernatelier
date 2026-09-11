@@ -45,8 +45,8 @@ keine
 
  Ich möchte bei dem Modul 431 die Auftrge 1704-1705 machen
 - [ ] Auftrag 1704
-- [ ] Auftrag 1704
 - [ ] Auftrag 1705
+- [ ] Auftrag 1706
 
       
  Ich möchte bei dem Modul 391 Die Missionen 4 und 5 machen.
