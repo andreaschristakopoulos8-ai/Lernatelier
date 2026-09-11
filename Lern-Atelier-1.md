@@ -23,10 +23,9 @@ keine
 ### Planung 22.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
+- [ ] Ich möchte bei dem Modul 431 die Aufgaben nachholen
+- [ ] Ich möchte bei Modul 391 die Missionen nachholen
+- [ ] Ich möchte die Aufgaben von en beiden Modulen verstehen
 (Heute habe ich... (50-100 WÃ¶rter))
 
 
