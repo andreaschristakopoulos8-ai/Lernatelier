@@ -67,7 +67,7 @@ Heute habe ich die Mission 4 und 5 vom Modul 319 gemacht und den Auftrag 1704 vo
 - [ ] Auftrag 1710
 
       
- Ich möchte bei dem Modul 391 vileicht die Missionen weiterführen
+ Ich möchte vielleicht bei dem Modul 391 vileicht die Missionen weiterführen
 - [] Mission 7
 - [] Mission 8
 
