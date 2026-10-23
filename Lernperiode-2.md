@@ -52,7 +52,7 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
-...Ihr Text...
+Diszpilin aufbauen
 
 ## Tagesplanungen
 <!--
