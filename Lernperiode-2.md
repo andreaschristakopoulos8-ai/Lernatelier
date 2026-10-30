@@ -54,6 +54,7 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 Diszpilin aufbauen
 
+
 ## Tagesplanungen
 <!--
 Planen Sie die Lernperiode. Dazu planen Sie Arbeitspakete (jeweils für den
@@ -64,7 +65,9 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
-### Planung tt.mm.jjjj
+### Planung 06.10.2026
+
+
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
@@ -75,9 +78,8 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [x] Modul 431: Auftrag 1709-17012
+- [x] Modul 319: Auftrag 8-10
 
 
 #### Tagesreflexion
@@ -88,7 +90,73 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
+Ich habe geschaft was ich machen wollte.
+
+
+### Veränderungen
+<!--
+Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+-->
+
 ...Ihr Text...
+
+### Projekte / neue Technologien
+<!--
+Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+Verlinken Sie zu den GitHub Repos Ihrer Projekte.
+(Können Sie später nach und nach einfügen.)
+-->
+
+probieren ein kleines in der art Spiel oder teil von einem Spiel zu machen mit ählichen Figuren wie in einem alten Pokemon game.
+
+### Generelle Ziele
+<!--
+Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+-->
+anschauen wie das alles Funktioniert
+
+
+
+
+## Tagesplanungen
+<!--
+Planen Sie die Lernperiode. Dazu planen Sie Arbeitspakete (jeweils für den
+kommenden Arbeitstag) und erstellen am Ende jedes Tages eine kurze Reflexion.
+
+Wenn Sie an einem Tag gefehlt haben, schreiben Sie direkt unter die
+Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
+absence, absent, Absenz, abwesend, krank, Krankheit.
+-->
+
+### Planung 06.10.2026
+
+
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [x] Anfangen mit dem Projekt
+- [ ] lernen wie das Prinzip funktioniert
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+Ich habe geschaft was ich machen wollte.
+
+
+
 
 
 <!--
@@ -104,5 +172,4 @@ Zukunft mit aus dieser Lernperiode?
 Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
 -->
 
-...Ihr Text...
 
