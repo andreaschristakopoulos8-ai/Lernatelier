@@ -142,7 +142,7 @@ Beispiele:
 -->
 
 - [x] Anfangen mit dem Projekt
-- [ ] lernen wie das Prinzip funktioniert
+- [x] lernen wie das Prinzip funktioniert
 
 
 #### Tagesreflexion
@@ -153,7 +153,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Ich habe geschaft was ich machen wollte.
+ich habe heute neues dazugelernt aber ich hätte einwenig mehr schaffen können.
 
 
 
