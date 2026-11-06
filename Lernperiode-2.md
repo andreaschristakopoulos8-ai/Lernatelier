@@ -173,3 +173,47 @@ Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
 -->
 
 
+### Planung 06.11.2026
+
+
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [] Projekt weiterführen
+- [] Modul 126 auftrag 1721
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+ich habe heute neues dazugelernt aber ich hätte einwenig mehr schaffen können.
+
+
+
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+## Lernperiode Reflexion
+<!--
+Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
+Mögliche Themen: Wie gut passt Ihr Endresultat zu dem, was Sie sich vorgenommen
+hatten? Unterm Strich, was ist Ihr grösstes Lernresultat? Was nehmen Sie für die
+Zukunft mit aus dieser Lernperiode?
+Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
+-->
+
+
