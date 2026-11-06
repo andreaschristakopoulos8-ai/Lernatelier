@@ -186,8 +186,7 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [] Projekt weiterführen
-- [] Modul 126 auftrag 1721
+- [X] Projekt weiterführen
 
 #### Tagesreflexion
 <!--
